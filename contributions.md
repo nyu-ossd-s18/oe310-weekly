@@ -1,16 +1,16 @@
 Week Number| Contribution | Type
 --- | --- | ---
- | 9| course site | validate pull request| 
- |9 | other | bug triage|
- |9 | other | bug triage|
- |9 | other | bug triage|
- |8 | course site | open issue|
- |7 | wikipedia | minor edit |
- |6 | course site | open issue|
- |5 | course site | validate pull request|
- |4 | course site | open pull request|
- |4 | course site | open issue|
- |4 | course site | comment on issue|
- |4 | course site | comment on issue|
- |4 | course site | claim issue|
- |3 | wikipedia | formatting changes|
+ |9| validate pull request | course site | 
+ |9 |  bug triage| other |
+ |9 | bug triage|  other |
+ |9 | bug triage| other | 
+ |8 | open issue| course site |
+ |7 | minor edit | wikipedia |
+ |6 | open issue |  course site |
+ |5 |  validate pull request| course site |
+ |4 |  open pull request| course site |
+ |4 |  open issue| course site |
+ |4 |  comment on issue| course site |
+ |4 |  comment on issue| course site |
+ |4 |  claim issue|course site |
+ |3 |  formatting changes| wikipedia |
