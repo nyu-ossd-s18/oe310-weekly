@@ -1,5 +1,8 @@
 Week Number| Contribution | Type
 --- | --- | ---
+| 11| wikipedia [minor edits](https://en.wikipedia.org/w/index.php?title=Black-and-white_dualism&oldid=836255002)| wikipedia|
+|11| comment on Terasology [bug](https://github.com/MovingBlocks/Terasology/issues/2378)| other|
+|11| comment on Terasology [bug](https://github.com/MovingBlocks/Terasology/issues/3288)| other|
  |9| course site [validate pull request](https://github.com/joannakl/cs480_s18/pull/100) | course site | 
  |9 | PDF.js [bug triage](https://github.com/mozilla/pdf.js/issues/7160)| other |
  |9 | PDF.js [bug triage](https://github.com/mozilla/pdf.js/issues/7363)|  other |
