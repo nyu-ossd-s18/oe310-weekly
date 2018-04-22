@@ -1,5 +1,7 @@
 Week Number| Contribution | Type
 --- | --- | ---
+| 12| Terasology [bug triage](https://github.com/MovingBlocks/Terasology/issues/3266)| other|
+| 12| Terasology [bug triage](https://github.com/MovingBlocks/Terasology/issues/3288)| other|
 | 11| wikipedia [minor edits](https://en.wikipedia.org/w/index.php?title=Black-and-white_dualism&oldid=836255002)| wikipedia|
 |11| comment on Terasology [bug](https://github.com/MovingBlocks/Terasology/issues/2378)| other|
 |11| comment on Terasology [bug](https://github.com/MovingBlocks/Terasology/issues/3288)| other|
