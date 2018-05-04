@@ -1,5 +1,8 @@
 Week Number| Contribution | Type
 --- | --- | ---
+| 13| [triage Terasology bug to get info](https://github.com/MovingBlocks/Terasology/issues/3338)| other|
+| 13| wikipedia [adding links and minor correction](https://en.wikipedia.org/w/index.php?title=Sovereignty_(play)&oldid=838598609)|wikipedia|
+|13| [adding links for wikipedia](https://en.wikipedia.org/w/index.php?title=Sovereignty_(play)&oldid=838735845)| wikipedia|
 | 12| Terasology [bug triage](https://github.com/MovingBlocks/Terasology/issues/3266)| other|
 | 12| Terasology [bug triage](https://github.com/MovingBlocks/Terasology/issues/3288)| other|
 | 11| wikipedia [minor edits](https://en.wikipedia.org/w/index.php?title=Black-and-white_dualism&oldid=836255002)| wikipedia|
